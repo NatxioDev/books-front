@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, "app/ui/books/books-table.jsx", "app/dashboard/books/page.jsx"  ],
   "exclude": ["node_modules"]
 }
